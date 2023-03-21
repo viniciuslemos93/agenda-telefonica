@@ -12,6 +12,10 @@
 <a href="#sparkles-autor">Autor</a>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-blue"/>
+</p>
+
 &#xa0;
  
 ## :dart: Sobre
